@@ -40,7 +40,7 @@ userData = {
     age: 60
 };
 console.log(userData);
-// Comlex Object
+// Complex Object
 var complex = {
     data: [100, 3.99, 10],
     output: function (all) {

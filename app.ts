@@ -57,7 +57,7 @@ userData = {
 
 console.log(userData);
 
-// Comlex Object
+// Complex Object
 let complex: { data: number[], output: (all: boolean) => number[]} = {
   data: [100, 3.99, 10],
   output: function (all: boolean): number[] {
